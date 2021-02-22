@@ -6,8 +6,12 @@ In the video I walk through the python script line by line explaining all the st
 
 Tools used:
 
-Python
-Kismet Wireless
-Pushover.net
-Linux Cron
-Windows Task Scheduler
+*Python
+
+*Kismet Wireless
+
+*Pushover.net
+
+*Linux Cron
+
+*Windows Task Scheduler
